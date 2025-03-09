@@ -13,5 +13,5 @@ def unzip_file(zip_path, extract_to=None):
         print(f"Extracted to: {extract_to}")
 
 # Example usage:
-zip_file_path = "/Users/bimalchhetry/Downloads/OneDrive_3_09-03-2025.zip"  # Change this path
+zip_file_path = "path"  # Change this path
 unzip_file(zip_file_path)

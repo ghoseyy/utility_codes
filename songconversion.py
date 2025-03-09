@@ -18,5 +18,5 @@ def convert_to_mp3(input_file, output_file=None):
 
 # Example usage
 if __name__ == "__main__":
-    input_file = "//Users/bimalchhetry/Documents/2022_college_video/music/Status-by-Jamie-Bathgate--Royalty-Free-Music--Artlist.mp3"  # Replace with your file
+    input_file = "/path/"  # Replace with your file
     convert_to_mp3(input_file)
